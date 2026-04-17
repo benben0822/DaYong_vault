@@ -11,14 +11,13 @@
             "id": "6bd21c11a1d9b596",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "即梦提示词采集.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名 1.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "即梦提示词采集"
+              "icon": "lucide-table",
+              "title": "未命名 1"
             }
           },
           {
@@ -48,8 +47,7 @@
               "title": "未命名"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,12 +210,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c237a20181b4eebd",
+  "active": "6bd21c11a1d9b596",
   "lastOpenFiles": [
+    "即梦提示词采集.md",
+    "未命名 1.base",
+    "未命名.base",
     "新建 文本文档.txt",
     "所有skill列表+简介.md",
-    "未命名.base",
-    "即梦提示词采集.md",
     "引发儿童遗尿的所有病理可能性.md",
     "Pasted image 20260414145358.png",
     "Pasted image 20260414145248.png",
