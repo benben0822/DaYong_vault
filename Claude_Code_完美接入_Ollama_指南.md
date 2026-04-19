@@ -3,7 +3,7 @@
 
 ## 概述
 
-调用 ollama 提供的 cloud 大模型能实现 token 自由的同时又无需本地高配显卡。建议多配置一个低参数模型以备断网情况可以调用本地大模型
+调用 ollama 提供的 cloud 大模型能实现 token 自由的同时又无需本地高配显卡。建议多配置一个低参数模型以备断网或者使用太猛燃尽免费token的情况可以调用本地大模型
 
 ---
 
@@ -86,4 +86,7 @@ ollama launch claude
 ![[Pasted image 20260419193405.png]]
 
 
-enjoy it
+### 备注：
+
+## 1、ollama模型库地址：https://ollama.com/library
+## 2、
