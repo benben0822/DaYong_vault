@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "即梦提示词采集.md",
+                "file": "Claude_Code_完美接入_Ollama_指南.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "即梦提示词采集"
+              "title": "Claude_Code_完美接入_Ollama_指南"
             }
           }
         ]
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f6cb935256d051a",
+  "active": "ffe0c54325c00736",
   "lastOpenFiles": [
-    "Claude_Code_完美接入_Ollama_指南.md",
     "即梦提示词采集.md",
+    "Claude_Code_完美接入_Ollama_指南.md",
     "所有skill列表+简介.md",
     "未命名.base",
     "未命名 1.base",
