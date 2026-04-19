@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "即梦提示词采集.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffe0c54325c00736",
+  "active": "6f6cb935256d051a",
   "lastOpenFiles": [
     "Claude_Code_完美接入_Ollama_指南.md",
     "即梦提示词采集.md",
