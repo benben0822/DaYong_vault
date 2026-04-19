@@ -76,6 +76,7 @@ unset http_proxy
 
 ![[Pasted image 20260411121431.png]]
 
+
 复制粘贴命令：
 ```
 ollama launch claude
