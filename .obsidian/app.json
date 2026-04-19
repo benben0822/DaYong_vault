@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": "/C:\\Users\\maye8\\Documents\\GitHub\\Pony_vault\\assets"
+  "attachmentFolderPath": "./附件",
+  "newFileLocation": "root"
 }

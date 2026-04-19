@@ -82,5 +82,8 @@ unset http_proxy
 ollama launch claude
 ```
 到终端并运行
+![[Pasted image 20260419193128.png]]
+![[Pasted image 20260419193405.png]]
+
 
 enjoy it
