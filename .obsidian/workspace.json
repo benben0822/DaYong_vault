@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "即梦提示词采集.md",
+                "file": "Claude_Code_完美接入_Ollama_指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "即梦提示词采集"
+              "title": "Claude_Code_完美接入_Ollama_指南"
             }
           }
         ]
@@ -186,9 +186,9 @@
   },
   "active": "ffe0c54325c00736",
   "lastOpenFiles": [
+    "即梦提示词采集.md",
     "Claude_Code_完美接入_Ollama_指南.md",
     "所有skill列表+简介.md",
-    "即梦提示词采集.md",
     "引发儿童遗尿的所有病理可能性.md",
     "附件/Pasted image 20260419193405.png",
     "附件/Pasted image 20260419193128.png",
