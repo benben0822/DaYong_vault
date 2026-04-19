@@ -15,7 +15,7 @@
               "state": {
                 "file": "Claude_Code_完美接入_Ollama_指南.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Claude_Code_完美接入_Ollama_指南"
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "未命名 的大纲"
             }
+          },
+          {
+            "id": "6f6cb935256d051a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +196,11 @@
   },
   "active": "ffe0c54325c00736",
   "lastOpenFiles": [
-    "即梦提示词采集.md",
+    "未命名.base",
+    "未命名 1.base",
     "Claude_Code_完美接入_Ollama_指南.md",
+    "2026-04-19.md",
+    "即梦提示词采集.md",
     "所有skill列表+简介.md",
     "引发儿童遗尿的所有病理可能性.md",
     "附件/Pasted image 20260419193405.png",
@@ -202,9 +215,7 @@
     "附件/Pasted image 20260414132822.png",
     "附件/Pasted image 20260414130854.png",
     "附件",
-    "未命名 1.base",
     "未命名.md",
-    "未命名.base",
     "assets",
     "新建 文本文档.txt"
   ]
