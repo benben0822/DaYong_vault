@@ -61,7 +61,7 @@ claude --model qwen2.5-coder:7b
 claude --model glm-5.1:cloud
 ```
 或者直接修改 setting.json 文件，settinng文件所在路径：C:\Users\你的用户名\.claude\settings.json
-![[Pasted image 20260411114501.png]]
+![Pasted image 20260411114501](Pasted%20image%2020260411114501.png)
 
 > **注意：** 如果你开启了系统代理，可能会遇到 `API Error: Connection error`。这是因为流量被转发到了代理服务器而找不到 localhost。请先在终端执行：
 
@@ -74,7 +74,7 @@ unset http_proxy
 
 ### 4. 从 Ollama 打开 Claude code
 
-![[Pasted image 20260411121431.png]]
+![Pasted image 20260411121431](Pasted%20image%2020260411121431.png)
 
 
 复制粘贴命令：
@@ -82,8 +82,8 @@ unset http_proxy
 ollama launch claude
 ```
 到终端并运行
-![[Pasted image 20260419193128.png]]
-![[Pasted image 20260419193405.png]]
+![Pasted image 20260419193128](Pasted%20image%2020260419193128.png)
+![Pasted image 20260419193405](Pasted%20image%2020260419193405.png)
 
 
 ### 备注：

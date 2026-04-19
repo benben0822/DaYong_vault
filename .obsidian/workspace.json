@@ -15,7 +15,7 @@
               "state": {
                 "file": "Claude_Code_完美接入_Ollama_指南.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Claude_Code_完美接入_Ollama_指南"
