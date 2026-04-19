@@ -11,13 +11,14 @@
             "id": "6bd21c11a1d9b596",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名 1.base",
-                "viewName": "表格"
+                "file": "所有skill列表+简介.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名 1"
+              "icon": "lucide-file",
+              "title": "所有skill列表+简介"
             }
           },
           {
@@ -38,16 +39,18 @@
             "id": "c237a20181b4eebd",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "Claude_Code_完美接入_Ollama_指南.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "Claude_Code_完美接入_Ollama_指南"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,23 +203,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bd21c11a1d9b596",
+  "active": "c237a20181b4eebd",
   "lastOpenFiles": [
+    "Claude_Code_Skills_技能列表.md",
+    "所有skill列表+简介.md",
+    "未命名.base",
     "即梦提示词采集.md",
     "未命名 1.base",
-    "未命名.base",
     "新建 文本文档.txt",
-    "所有skill列表+简介.md",
     "引发儿童遗尿的所有病理可能性.md",
     "Pasted image 20260414145358.png",
     "Pasted image 20260414145248.png",
@@ -229,7 +233,6 @@
     "Pasted image 20260414122106.png",
     "Pasted image 20260414121945.png",
     "未命名.md",
-    "Claude_Code_Skills_技能列表.md",
     "Claude_Code_完美接入_Ollama_指南.md"
   ]
 }
