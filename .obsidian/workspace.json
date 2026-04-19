@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 332.5
   },
   "right": {
     "id": "df2b494b0c3d3d3f",
@@ -197,8 +197,8 @@
   "active": "6f6cb935256d051a",
   "lastOpenFiles": [
     "Claude_Code_完美接入_Ollama_指南.md",
-    "即梦提示词采集.md",
     "所有skill列表+简介.md",
+    "即梦提示词采集.md",
     "未命名.base",
     "未命名 1.base",
     "2026-04-19.md",
