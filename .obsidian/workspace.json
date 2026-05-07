@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SensationX.md",
+                "file": "项目路演文稿：[项目名称，暂定：SensationX].md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SensationX"
+              "title": "项目路演文稿：[项目名称，暂定：SensationX]"
             }
           }
         ]
@@ -212,7 +212,7 @@
   "active": "6bb017c927aa095d",
   "lastOpenFiles": [
     "Claude_Code_Skills_技能列表.md",
-    "SensationX.md",
+    "项目路演文稿：[项目名称，暂定：SensationX].md",
     "Claude_Code_完美接入_Ollama_指南.md",
     "即梦提示词采集.md",
     "所有skill列表+简介.md",
