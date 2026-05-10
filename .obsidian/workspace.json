@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e226f10e2710534",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "16b4a5d4082b001a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
             "id": "74c0481d69b37bda",
             "type": "leaf",
             "state": {
@@ -41,8 +21,7 @@
               "title": "SensationX_产品路演文稿"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,10 +211,10 @@
   },
   "active": "74c0481d69b37bda",
   "lastOpenFiles": [
+    "SensationX_产品路演文稿.md",
     "项目路演文稿：[项目名称，暂定：SensationX].md",
     "Claude code + Ollama 免费无限token模式对接指南.md",
     "所有skill列表+简介.md",
-    "SensationX_产品路演文稿.md",
     "24234.md",
     "未命名",
     "conflict-files-obsidian-git.md",
