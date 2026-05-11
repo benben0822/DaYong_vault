@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "SensationX_产品路演文稿"
             }
+          },
+          {
+            "id": "b5b21928e6791c07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "协助跑表情动画关键帧需求.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "协助跑表情动画关键帧需求"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,9 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74c0481d69b37bda",
+  "active": "b5b21928e6791c07",
   "lastOpenFiles": [
+    "附件/Gemini_Generated_Image_2z4rdr2z4rdr2z4r.png",
     "SensationX_产品路演文稿.md",
+    "协助跑表情动画关键帧需求.md",
     "项目路演文稿：[项目名称，暂定：SensationX].md",
     "Claude code + Ollama 免费无限token模式对接指南.md",
     "所有skill列表+简介.md",
