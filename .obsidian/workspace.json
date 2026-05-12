@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "协助跑表情动画关键帧需求"
             }
+          },
+          {
+            "id": "678462ed385b0dd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "新媒体视觉审美进阶：从“好看”到“高级”.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "新媒体视觉审美进阶：从“好看”到“高级”"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,12 +237,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5b21928e6791c07",
+  "active": "678462ed385b0dd8",
   "lastOpenFiles": [
+    "附件/Pasted image 20260512123557.png",
+    "协助跑表情动画关键帧需求.md",
+    "新媒体视觉审美进阶：从“好看”到“高级”.md",
     "附件/Pasted image 20260511225757.png",
     "附件/Gemini_Generated_Image_2z4rdr2z4rdr2z4r.png",
     "SensationX_产品路演文稿.md",
-    "协助跑表情动画关键帧需求.md",
     "项目路演文稿：[项目名称，暂定：SensationX].md",
     "Claude code + Ollama 免费无限token模式对接指南.md",
     "所有skill列表+简介.md",
@@ -251,7 +267,6 @@
     "附件/Pasted image 20260414134506.png",
     "附件/Pasted image 20260414134031.png",
     "附件/Pasted image 20260414132830.png",
-    "附件/Pasted image 20260414132822.png",
     "附件",
     "assets",
     "新建 文本文档.txt"
