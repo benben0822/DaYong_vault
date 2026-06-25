@@ -1,1 +1,2 @@
 下载地址：https://hermes-agent.nousresearch.com  一路下一步即可完成安装
+![](附件/Pasted%20image%2020260625103508.png)![](附件/Pasted%20image%2020260625103544.png)![](附件/Pasted%20image%2020260625103627.png)![](附件/Pasted%20image%2020260625103651.png)
