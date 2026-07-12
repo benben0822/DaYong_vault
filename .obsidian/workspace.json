@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crawl4AI_安装指南_Mac_Intel芯片.md",
+                "file": "Crawl4AI_安装指南_Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crawl4AI_安装指南_Mac_Intel芯片"
+              "title": "Crawl4AI_安装指南_Windows"
             }
           }
         ],
@@ -282,8 +282,8 @@
   },
   "active": "ee6ea8636c8539cb",
   "lastOpenFiles": [
-    "Crawl4AI_小白保姆级教程.md",
     "Crawl4AI_安装指南_Mac_Intel芯片.md",
+    "Crawl4AI_小白保姆级教程.md",
     "未确认 760524.crdownload",
     "Crawl4AI_安装指南_Mac_M芯片.md",
     "未确认 982969.crdownload",
