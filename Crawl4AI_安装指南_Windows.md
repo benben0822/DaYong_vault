@@ -24,6 +24,7 @@
 
    # 3. 升级基础工具并安装核心爬虫与 UI 界面库
    pip install --upgrade pip
+   
    pip install crawl4ai streamlit nest_asyncio
 
    # 4. 下载并初始化爬虫专属的无头浏览器内核（这一步下载文件较大，请耐心等待完成）
