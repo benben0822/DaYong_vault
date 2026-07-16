@@ -27,15 +27,15 @@
 
 ### 1.1 Zeta AI (zeta-ai.io)
 
-| 维度 | 信息 |
-|------|------|
-| 定位 | No.1 AI Chat — 角色扮演向 AI 聊天 + Ploti 互动小说平台 |
-| 用户粘性 | 周均使用时长 > 13 小时 |
-| 核心能力 | Ploti（互动小说/角色扮演社区）+ 用户自建角色 + 角色 IP 化 |
-| 多语言 | 英/韩/日/中等多语言支持 |
-| 平台 | iOS / Android / Web |
-| 竞品对标 | Character.ai, Chai, Janitor AI, Crushon AI, Replika, Anima AI |
-| 关键词 | Chat, AI Character, Roleplay, Story, Novel, Webtoon, Interactive |
+| 维度   | 信息                                                               |
+| ---- | ---------------------------------------------------------------- |
+| 定位   | No.1 AI Chat — 角色扮演向 AI 聊天 + Ploti 互动小说平台                        |
+| 用户粘性 | 周均使用时长 > 13 小时                                                   |
+| 核心能力 | Ploti（互动小说/角色扮演社区）+ 用户自建角色 + 角色 IP 化                             |
+| 多语言  | 英/韩/日/中等多语言支持                                                    |
+| 平台   | iOS / Android / Web                                              |
+| 竞品对标 | Character.ai, Chai, Janitor AI, Crushon AI, Replika, Anima AI    |
+| 关键词  | Chat, AI Character, Roleplay, Story, Novel, Webtoon, Interactive |
 
 **核心功能拆解**（基于 Firecrawl 首页抓取）:
 
