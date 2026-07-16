@@ -57,14 +57,14 @@
 
 ### 1.2 Crushie AI (crushie.ai)
 
-| 维度 | 信息 |
-|------|------|
-| 定位 | AI Romance — 纯情感向 AI 伴侣 |
+| 维度     | 信息                                          |
+| ------ | ------------------------------------------- |
+| 定位     | AI Romance — 纯情感向 AI 伴侣                     |
 | Slogan | "AI romance: words that spark connections." |
-| 视觉风格 | 暗色主题，渐变紫色主色调 |
-| 核心能力 | AI 恋爱对话、角色发现、场景互动 |
-| 平台 | iOS / Android |
-| 社区 | Discord 社区 |
+| 视觉风格   | 暗色主题，渐变紫色主色调                                |
+| 核心能力   | AI 恋爱对话、角色发现、场景互动                           |
+| 平台     | iOS / Android                               |
+| 社区     | Discord 社区                                  |
 
 **核心功能拆解**（基于 Firecrawl 首页抓取）:
 
