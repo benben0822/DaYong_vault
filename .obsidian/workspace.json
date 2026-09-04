@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "产品功能地图-简述版V1.md",
+                "file": "产品功能地图-详细版V1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "产品功能地图-简述版V1"
+              "title": "产品功能地图-详细版V1"
             }
           },
           {
@@ -312,9 +312,9 @@
   },
   "active": "51ca4c6ba221b095",
   "lastOpenFiles": [
+    "产品功能地图-简述版V1.md",
     "AI伴侣_产品功能地图 2.md",
     "产品功能地图-详细版V1.md",
-    "产品功能地图-简述版V1.md",
     "AI伴侣项目(BaBaLa)目前面临的技术难点.md",
     "18+ 成人3D+2D垂类游戏引擎（v2.0 — 基于Godot架构深度优化）.md",
     "产品规划文档：[暂定名：HighRoller  豪赌人生].md",
