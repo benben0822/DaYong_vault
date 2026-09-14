@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "产品功能地图-详细版V1.md",
+                "file": "产品功能地图-简述版V1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "产品功能地图-详细版V1"
+              "title": "产品功能地图-简述版V1"
             }
           },
           {
@@ -294,12 +294,12 @@
   },
   "active": "fc9647e4838a0f88",
   "lastOpenFiles": [
+    "产品功能地图-详细版V1.md",
     "AI伴侣项目(BaBaLa)目前面临的技术难点.md",
     "2026-09-04.md",
     "未命名.base",
     "未命名.canvas",
     "未命名 1.base",
-    "产品功能地图-详细版V1.md",
     "产品功能地图-简述版V1.md",
     "AI伴侣_产品功能地图 2.md",
     "18+ 成人3D+2D垂类游戏引擎（v2.0 — 基于Godot架构深度优化）.md",
